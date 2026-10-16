@@ -13,7 +13,7 @@ Since the original firmware could still be restored, I decided to investigate wh
 
 ## What was changed?
 
-The original PRO 4G firmware was modified to support the LS23PO2T LCD controller used in my camera.
+The original PRO 4G firmware was modified to support the LS23P02T LCD controller used in my camera.
 
 ## Project Objectives
 
@@ -30,9 +30,9 @@ The resulting firmware is still based on the original PRO 4G version, rather tha
 
 | Firmware | Version | LCD Controller |
 |----------|---------|----------------|
-| Original SMART | Smart-LT_20240729 | LS23PO2T |
-| Original PRO | 4G ProA_20230221 | ALTO20ESLN_J2C |
-| Modified PRO | 4G ProA_20230221 | LS23PO2T |
+| Original SMART 4G | Smart-LT_20240729 | LS23P02T |
+| Original PRO 4G | 4G ProA_20230221 | ALT020ESLN_J2C |
+| Modified PRO 4G | 4G ProA_20230221 | LS23P02T |
 
 ## Does it even work?
 
