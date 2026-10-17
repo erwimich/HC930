@@ -9,7 +9,7 @@ The problem was that although the camera appeared to use almost identical physic
 
 Flashing the older PRO 4G firmware resulted in a completely white screen. The camera itself appeared to be running, but the display was unusable.
 
-Since the original firmware could still be restored, I decided to investigate what was different and whether I could Make the older firmware work with my display.
+Since the original firmware could still be restored, I decided to investigate what was different and whether I could make the older firmware work with my display.
 
 ## What was changed?
 
