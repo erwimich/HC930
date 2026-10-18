@@ -1,6 +1,6 @@
 # Firmware Patching
 
-After identifying the LCD initialization tables, the next step was to transplant them from the SMART firmware into the older PRO firmware.
+After identifying the LCD initialization tables, the next step was to transplant them from the SMART firmware into the PRO firmware.
 
 The goal was to preserve the original PRO software while making its display initialization compatible with the LS23P02T controller.
 
