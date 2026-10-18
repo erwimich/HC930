@@ -31,8 +31,6 @@ The following offsets were identified in the extracted firmware partitions:
 
 These offsets are relative to the beginning of each partition, not the complete firmware image.
 
-Something interesting came out of this comparison.
-
 The two initialization tables in the SMART firmware were identical, while the PRO firmware contained two different sequences.
 
 This was the first indication that I had found something more useful than another LCD configuration string.
@@ -43,7 +41,7 @@ The tables consist of pairs of 32-bit values stored in little-endian format.
 
 The first value identifies the type of operation, while the second contains a command, parameter or delay value.
 
-Four different operation types were identified:
+Four different operation types:
 
 | Type | Value | Meaning |
 |------|-------|---------|
