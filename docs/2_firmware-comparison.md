@@ -2,7 +2,7 @@
 
 Once I had a better understanding of the firmware structure, the next step was to compare the SMART 4G and PRO 4G firmware.
 
-The goal was fairly simple: find out how much of the hardware was actually different and whether it would be possible to adapt the older firmware instead of rewriting anything from scratch.
+The goal was fairly simple: find out how much of the hardware was actually different and whether it would be possible to adapt the PRO firmware instead of rewriting anything from scratch.
 
 ## The two firmware versions
 
@@ -68,15 +68,11 @@ The firmware was accepted and installed, but the result was a completely white L
 
 There was no startup logo, no menu and no camera preview.
 
-Fortunately, reinstalling the original SMART firmware restored the display.
-
 This was an important observation.
 
-It suggested that the older firmware was sufficiently compatible to pass the update process, but something in its display initialization was incompatible with my camera.
+It suggested that the PRO firmware was sufficiently compatible to pass the process, but something in its display initialization was incompatible with my camera.
 
-Of course, accepting a firmware update does not prove that every part of the firmware is functioning correctly.
-
-## Where to look next?
+## What next?
 
 Initially, changing the LCD configuration seemed like the obvious solution.
 
