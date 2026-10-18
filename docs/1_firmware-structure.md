@@ -73,7 +73,7 @@ Some particularly interesting files included:
 - "/bin/nvtrtspd" - RTSP streaming server executable.
 - "/usr/bin/rtspd" - Another RTSP-related executable.
 
-Finding RTSP-related software was interesting because it suggested that the firmware had more capabilities than those exposed through the original application.
+Finding RTSP-related software was also interesting because it suggested that the firmware had more capabilities than those exposed through the original application.
 
 Of course, having an executable in the filesystem does not necessarily mean the feature is enabled.
 
@@ -91,7 +91,7 @@ PRO 4G:
 
 "Disp_IF8B_LCD1_ALT020ESLN_J2C"
 
-This gave me my first concrete explanation for the display incompatibility.
+This gave me my first concrete explanation for the display incompatibility that I later discovered.
 
 However, simply changing the configuration string was not enough.
 
